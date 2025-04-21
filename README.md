@@ -6,7 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](http://www.linkedin.com/in/swapnil-2993-pande) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](@https://medium.com/@swpnlpnd96) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/3415519) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/swap2993) 
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,nextjs,mongodb,cypress,elasticsearch,express,flask,gcp,git,gitlab,heroku,jest,materialui,npm,redux,sass,sentry,vite,webpack)]
+![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,nextjs,mongodb,cypress,elasticsearch,express,flask,gcp,git,gitlab,heroku,jest,materialui,npm,redux,sass,sentry,vite,webpack)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=swapnil2993&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
